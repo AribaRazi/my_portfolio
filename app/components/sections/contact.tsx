@@ -85,8 +85,8 @@
 //               <div>
 //                 <h3 className="font-display font-semibold text-text mb-2">Let&apos;s connect</h3>
 //                 <p className="text-sm text-text-muted leading-relaxed">
-//                   I&apos;m currently looking for Summer 2027 internship opportunities in software
-//                   engineering and machine learning. Based in {profile.location}, open to remote
+//                   I&apos;m currently looking for internship opportunities in software
+//                   engineering and machine learning. Based in {profile.location},Banglore open to remote
 //                   and on-site roles.
 //                 </p>
 //               </div>
