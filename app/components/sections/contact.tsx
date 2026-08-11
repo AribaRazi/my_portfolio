@@ -255,9 +255,7 @@ export function Contact() {
               <div>
                 <h3 className="font-display font-semibold text-text mb-2">Let&apos;s connect</h3>
                 <p className="text-sm text-text-muted leading-relaxed">
-                  I'm currently looking for Summer internship opportunities in software
-                  engineering and machine learning. Based in {profile.location}, open to remote
-                  and on-site roles.
+                  I'm currently looking for internship opportunities in software engineering and machine learning. Based in {profile.location}, open to remote and on-site roles.
                 </p>
               </div>
               <div className="flex items-center gap-5 mt-8">
