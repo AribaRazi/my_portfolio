@@ -105,23 +105,29 @@ export const projects: Project[] = [
     featured: true,
     image: "/projects/image.png",
   },
-  {
-    title: "Cipher CLI",
-    description:
-      "A command-line password manager with local AES-256 encryption, zero network calls, and a focus on auditable, minimal code.",
-    stack: ["Rust", "SQLite"],
-    github: "https://github.com/alexsharma/cipher-cli",
-  },
-  {
-    title: "MarketPulse",
-    description:
-      "A time-series forecasting pipeline for short-term stock volatility, benchmarked against classical and deep-learning baselines.",
-    stack: ["Python", "Pandas", "Scikit-learn", "Streamlit"],
-    github: "https://github.com/alexsharma/marketpulse",
-  },
+  // {
+  //   title: "Cipher CLI",
+  //   description:
+  //     "A command-line password manager with local AES-256 encryption, zero network calls, and a focus on auditable, minimal code.",
+  //   stack: ["Rust", "SQLite"],
+  //   github: "https://github.com/alexsharma/cipher-cli",
+  // },
+  // {
+  //   title: "MarketPulse",
+  //   description:
+  //     "A time-series forecasting pipeline for short-term stock volatility, benchmarked against classical and deep-learning baselines.",
+  //   stack: ["Python", "Pandas", "Scikit-learn", "Streamlit"],
+  //   github: "https://github.com/alexsharma/marketpulse",
+  // },
 ];
 
 export const achievements = [
+   {
+  title: "1st Runner-Up — Gemma for Bharat Hackathon",
+  date: "2026",
+  description:
+    "Secured 1st Runner-Up at the Gemma for Bharat Hackathon organized by GDG on Campus JIS University, built MandiMitra,an AI-powered solution using Google's Gemma model.",
+},
   {
     title: "Open Source Contributor — Selected",
     date: "2026",
