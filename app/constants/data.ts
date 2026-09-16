@@ -252,6 +252,14 @@ export const badges = [
     // url: "https://www.credly.com/badges/your-badge-id",
     color: "from-[#a78bfa]/20 to-[#a78bfa]/5",
   },
+      {
+    name: "Generative AI fundamentals",
+    issuer: "Databricks",
+    date: "September 2026",
+    image: "/badges/",
+    // url: "https://www.credly.com/badges/your-badge-id",
+    color: "from-[#a78bfa]/20 to-[#a78bfa]/5",
+  },
 ];
 export const navLinks = [
   { label: "About", href: "#about" },
