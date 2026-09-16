@@ -248,7 +248,7 @@ export const badges = [
     name: "Nsoc'26",
     issuer: "Nexus Spring of Code",
     date: "April 2026",
-    image: "/badges/contri.jpeg",
+    image: "/badges/genai.jpeg",
     // url: "https://www.credly.com/badges/your-badge-id",
     color: "from-[#a78bfa]/20 to-[#a78bfa]/5",
   },
